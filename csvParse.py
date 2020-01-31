@@ -12,7 +12,7 @@ print(Blast_CVE)
 #now result show all EOL of vulns
 
 #cmds to add column to last index withing the existing csv
-Blast.insert(14,'Wolf Comment','AM - Finding')
+Blast.insert(13,'Wolf Comment','AM - Finding')
 Blast.to_csv('~/Desktop/Nessus Parser Script/cbres.csv')
 
 
